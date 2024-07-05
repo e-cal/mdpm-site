@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<meta charset="utf-8"/>
+
+<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/><meta content="e9ba79600a00003a6c14607471b873e7" name="id"/>
+<meta content="Tue, 25 Jun 2024 15:57:52 -0560" name="date"/>
+<title>Master of Digital Product Management - Overview</title>
+
+
+
+
+<meta content="MDPM - Overview" property="og:title"/>
+
+<meta content="The Master of Digital Product Management is a cross-disciplinary degree built for changemakers. It provides the skills and knowledge to effectively manage digitalization initiatives." property="og:description"/>
+<meta content="The Master of Digital Product Management is a cross-disciplinary degree built for changemakers. It provides the skills and knowledge to effectively manage digitalization initiatives – whether in work productivity, automation, micro-learning, or personalized customer experiences, and more." name="description"/>
+
+
+<meta content="https://smith.queensu.ca/_templates/images/content/open-graph/mdpm-og-image.jpg" property="og:image"/>
+
+<meta content="https://smith.queensu.ca/grad_studies/mdpm/index.php" property="og:url"/>
+
+
+<link href="https://fonts.googleapis.com" rel="preconnect"/><link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/><link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;900&amp;display=swap" rel="stylesheet"/><link href="https://use.typekit.net/jlu6ern.css" rel="stylesheet"/><!-- Custom styles for this template -->
+<link href="../../_templates/bootstrap4.5/css/bootstrap.min.css" rel="stylesheet"/>
+<script crossorigin="anonymous" src="https://kit.fontawesome.com/cd1da5b11b.js" type="text/javascript"></script>
+<link href="../../_templates/enhancements/aos-master/dist/aos.css" rel="stylesheet"/><link href="../../_templates/css/smith/global.css" rel="stylesheet"/><script src="../../_templates/enhancements/jquery-3.5.1/jquery-min.js" type="text/javascript">// <![CDATA[
+
+// ]]></script>
+<script src="../../_templates/bootstrap4.5/js/bootstrap.bundle.min.js" type="text/javascript">// <![CDATA[
+
+// ]]></script>
+<script src="../../_templates/js/smith/global.custom.min.js" type="text/javascript">// <![CDATA[
+
+// ]]></script><!-- Google Analytics --><script src="../../_templates/js/ga.js" type="text/javascript"></script>
+</head>
+<body>
+    
+<div class="text-xl" id="skip-to-main" role="region" aria-label="Skip to main"><a href="#main-content">Skip to main content</a></div>
+<!-- Alert Banner -->
+ 
+<header class="nav-down position-sticky" id="smith-header">
+<div id="nav_hide"><!-- START Global Nav --> 
+<div class="border-bottom" id="global-nav" style="border-bottom-color: #2c4061 !important;">
+<div class="container">
+<div class="row d-flex align-items-center">
+<div class="col-12"><nav class="navbar navbar-expand-lg" aria-label="Global Navigation"><button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Smith navigation toggle" class="navbar-toggler" data-target="#global-subnav" data-toggle="collapse" type="button">Smith <i class="fas fa-caret-down">&#160;</i> </button>
+<div class="collapse navbar-collapse" id="global-subnav">
+<ul class="navbar-nav">
+<li class="nav-item dropdown mt-2 mt-lg-0"><a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" id="global-aboutDropdown" role="button">About</a>
+<div aria-labelledby="global-aboutDropdown" class="dropdown-menu"><a class="dropdown-item" href="/index.php">Smith Home</a><a class="dropdown-item" href="/about/index.php">Profile</a><a class="dropdown-item" href="/news_blog/index.php">News</a><a class="dropdown-item" href="/about/dean.php">The Dean</a><a class="dropdown-item" href="/about/strategic-plan.php">Strategic Plan</a><a class="dropdown-item" href="/about/EDII/index.php">Equity, Diversity, Inclusion &amp; Indigenization</a><a class="dropdown-item" href="/about/learning_environment.php">Learning Environment</a><a class="dropdown-item" href="/about/partners/index.php">Partnerships</a> <a class="dropdown-item" href="/about/services.php">Services</a> <a class="dropdown-item" href="http://smithqueens.com/smithstore">SmithStore <i class="fal fa-external-link">&#8203;</i></a> <a class="dropdown-item" href="https://queensu.ca">Queen's University <i class="fal fa-external-link">&#8203;</i></a></div>
+</li>
+<li class="nav-item dropdown"><a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" id="global-learningDropdown" role="button">Learning</a>
+<div aria-labelledby="global-learningDropdown" class="dropdown-menu"><a class="dropdown-item" href="/academic_programs/undergraduate.php">Undergraduate Programs</a> <a class="dropdown-item" href="/mba_programs/index.php">MBA Programs</a> <a class="dropdown-item" href="/grad_studies/index.php">Graduate Programs</a> <a class="dropdown-item" href="/executiveeducation/index.php">Executive Education</a><a class="dropdown-item" href="/international/index.php">International</a><a class="dropdown-item" href="/smithedge/index.php">SmithEdge</a></div>
+</li>
+<li class="nav-item dropdown"><a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" id="global-insightsDropdown" role="button">Insights &amp; Research</a>
+<div aria-labelledby="global-insightsDropdown" class="dropdown-menu"><a class="dropdown-item" href="/insight/index.php">Smith Business Insight</a> <a class="dropdown-item" href="/research/index.php">Research</a> <a class="dropdown-item" href="/about/publications.php">Publications</a> <a class="dropdown-item" href="/centres/index.php">Centres</a></div>
+</li>
+<li class="nav-item dropdown"><a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" id="global-facultyDropdown" role="button">Faculty</a>
+<div aria-labelledby="global-facultyDropdown" class="dropdown-menu"><a class="dropdown-item" href="/faculty_and_research/faculty.php">Meet Our Faculty</a> <a class="dropdown-item" href="/faculty_and_research/Join_Our_Ranks.php">Join Our Ranks</a></div>
+</li>
+<li class="nav-item dropdown"><a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" id="global-alumniDropdown" role="button">Alumni &amp; Giving</a>
+<div aria-labelledby="global-alumniDropdown" class="dropdown-menu"><a class="dropdown-item" href="https://smith.queensu.ca/invest/">Give to Smith</a> <a class="dropdown-item" href="/alumni/index.php">Alumni</a></div>
+</li>
+<li class="nav-item dropdown"><a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" id="recruitDropdown" role="button">Recruit &amp; Engage</a>
+<div aria-labelledby="recruitDropdown" class="dropdown-menu"><a class="dropdown-item" href="/recruiting/index.php">Recruiting</a> <a class="dropdown-item" href="/about/partners/index.php">Partnerships</a> <a class="dropdown-item" href="/engage/index.php">Work with Students</a> <a class="dropdown-item" href="/centres/business-consulting/index.php">Smith Business Consulting</a></div>
+</li>
+</ul>
+</div>
+</nav></div>
+</div>
+</div>
+</div>
+<!-- END Global Nav --> 
+  <div class="container" id="smith-nav-main">
+<div class="row">
+<div class="col-12"><nav class="navbar navbar-expand-lg"><a class="navbar-brand" href="https://smith.queensu.ca/"><img alt="Smith School of Business" class="py-3" src="../../_templates/images/content/logos/smith/smith-logo-horizontal-white.svg"/></a> <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler hamburger hamburger--spin" data-target="#mainNav" data-toggle="collapse" type="button"> <span class="hamburger-box"> <span class="hamburger-inner"></span> </span> </button>
+<div class="collapse navbar-collapse" id="mainNav">
+<ul class="navbar-nav ml-auto mt-3 mb-4 mt-lg-0 mb-lg-0">
+<li class="nav-item dropdown"><a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" id="mdpmDropdown" role="button"> MDPM Degree</a>
+<div aria-labelledby="mdpmDropdown" class="dropdown-menu"><a class="dropdown-item" href="index.php">MDPM Home</a> <a class="dropdown-item" href="interdisciplinary-approach.php">Interdisciplinary Approach</a><a class="dropdown-item" href="career-support.php">Career &amp; Coaching Support</a><a class="dropdown-item" href="employment-outcomes.php">Employment Outcomes</a><a class="dropdown-item" href="advisory-board.php">Program Advisory Board</a> <a class="dropdown-item" href="apply.php">Apply Now</a> <a class="dropdown-item" href="../index.php">Our Graduate Programs Suite <i class="fa-light fa-arrow-right ml-1"> </i> </a></div>
+</li>
+<li class="nav-item dropdown"><a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" id="programDropdown" role="button"> Program Details</a>
+<div aria-labelledby="programDropdown" class="dropdown-menu"><a class="dropdown-item" href="program-details/index.php">Curriculum</a> <a class="dropdown-item" href="program-details/how-you-learn.php">How You Learn</a><a class="dropdown-item" href="program-details/schedule.php"> Schedule</a> <a class="dropdown-item" href="program-details/faculty.php">Faculty</a> <a class="dropdown-item" href="program-details/fees.php">Fees &amp; Financing</a><a class="dropdown-item" href="program-details/admissions.php">Admissions</a> <a class="dropdown-item" href="program-details/info-sessions.php">Info Sessions</a></div>
+</li>
+<li class="nav-item dropdown"><a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" id="studentsDropdown" role="button">Our Students</a>
+<div aria-labelledby="studentsDropdown" class="dropdown-menu"><a class="dropdown-item" href="our-students/index.php">Class Profile</a><a class="dropdown-item" href="our-students/success-stories.php">Success Stories</a></div>
+</li>
+<li class="nav-item dropdown"><a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" id="aboutDropdown" role="button"> About Smith</a>
+<div aria-labelledby="aboutDropdown" class="dropdown-menu"><a class="dropdown-item" href="about-smith/smithedge.php">SmithEdge</a></div>
+</li>
+<li class="nav-item dropdown"><a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" id="contactDropdown" role="button"> Contact</a>
+<div aria-labelledby="contactDropdown" class="dropdown-menu"><a class="dropdown-item" href="contact/index.php">Contact Us</a> <a class="dropdown-item" href="contact/introduce-yourself.php">Introduce Yourself</a> <a class="dropdown-item" href="contact/virtual-consultation.php">Virtual Consultation</a><a class="dropdown-item" href="contact/case-for-sponsorship.php">Case for Sponsorship</a></div>
+</li>
+<li class="nav-item d-block d-lg-none"><a class="btn btn-azure text-white mt-2" href="get-started.php">Get Started</a></li>
+</ul>
+</div>
+<a class="btn btn-nav-dl d-none d-lg-inline" href="get-started.php">Get Started</a></nav></div>
+</div>
+</div></div>
+</header>
+<main id="main-content">
+<!-- START HERO -->
+<div class="gradient-angled position-relative overflow-hidden" style="--color-end: var(--rose);"><img alt="" class="img-cover position-absolute" height="1000" src="img/hero.jpg" width="2000"/>
+<div class="d-none d-lg-block position-absolute" style="right: 70px; top: 100px;"><img alt="" class="img-fluid" height="auto" src="img/arrows-rose.svg" width="150"/></div>
+<div class="d-none d-lg-block position-absolute" style="right: 130px; top: 280px;"><img alt="" class="img-fluid" height="auto" src="img/arrows-rose.svg" width="100"/></div>
+<div class="d-none d-xl-block position-absolute" style="right: -120px; bottom: -210px;"><img alt="" class="img-fluid" height="auto" src="img/network-rose.svg" width="500"/></div>
+<div class="container py-5 py-lg-6">
+<div class="row">
+<div class="col-12 col-xl-8 my-lg-3"><span class="d-block text-tangerine text-lg font-black mb-4">First Degree of Its Kind in Canada</span>
+<h1 class="text-5xl text-md-6xl text-lg-7xl text-white leading-none">Gain Expertise<br/> to Lead Digital <br/>Transformations</h1>
+<h2 class="text-white text-lg text-sm-xl border-top border-white pt-3 mt-3">12-month program<br class="d-inline d-lg-none"/><span class="d-none d-lg-inline">&#160;&#160;&#8226;&#160;&#160;</span>Virtual learning while you work</h2>
+</div>
+</div>
+<div class="row">
+<div class="col-12"><a class="btn btn-tangerine text-blue mt-4 mr-3" href="contact/introduce-yourself.php">Introduce Yourself</a> <a class="btn btn-white-outline mt-4" href="apply.php">Apply Now</a></div>
+</div>
+</div>
+</div>
+<!-- END HERO --> <!-- START JOINT PROGRAM -->
+<div class="bg-blue">
+<div class="container">
+<div class="row py-3">
+<div class="col-12">
+<div class="d-flex flex-column flex-md-row align-items-center justify-content-center"><span class="text-center text-md-left text-white font-black leading-tight mb-3 mb-md-0 mr-md-4">Partnership with Queen&#8217;s School of Computing </span> <img alt="" src="img/school-of-computing-logo.svg" style="width: 220px;"/></div>
+</div>
+</div>
+</div>
+</div>
+<!-- END JOINT PROGRAM --> <!-- START INTRO -->
+<div class="container my-5 my-xl-6">
+<div class="row pb-4 pb-xl-5">
+<div class="col-12">
+<h2 class="h1 font-black mb-2">Master of Digital Product Management</h2>
+</div>
+</div>
+<div class="row align-items-center">
+<div class="col-12 col-lg-11 col-xl-10 text-lg pr-lg-5">
+<p>Today, every business must be a digital business. Products and services, operations, and innovation are being transformed by digital capabilities. Digital transformation engages business processes and technological implementation. Skilled leaders are needed to ensure success.</p>
+<div class="embed-responsive embed-responsive-16by9 my-5"><iframe allow="autoplay" allowfullscreen="allowfullscreen" height="405" src="https://smith.ca.panopto.com/Panopto/Pages/Embed.aspx?id=9669fa37-2686-4dab-9cc8-af4a0127109d&amp;autoplay=false&amp;offerviewer=false&amp;showtitle=false&amp;showbrand=false&amp;captions=false&amp;interactivity=none" title="Master of digital product management - What is it?" width="720"></iframe></div>
+<p>This cross-disciplinary degree is built for these changemakers. It provides the skills and knowledge to effectively manage digitalization initiatives &#8211; whether in work productivity, automation, micro-learning, or personalized customer experiences, and more. The program covers all stages of the digital product management lifecycle. Students learn how to apply human-centered approaches, use low-code tools to build solutions, and apply modern management practices to lead change and drive real business results.</p>
+<p>This innovative 12-month program&#8212;offered for the first time in September 2022&#8212;leverages the renowned expertise of Smith School of Business and Queen&#8217;s School of Computing for a uniquely comprehensive educational experience. Developed in consultation with digital transformation leaders in academia, business, government, and the technology sector, it is the first program of its kind in Canada.</p>
+</div>
+</div>
+</div>
+<!-- END INTRO --> <!-- START PROGRAM CONTENT -->
+<div class="bg-azure-100 position-relative overflow-hidden">
+<div class="d-none d-xl-block position-absolute" style="right: 160px; top: 30px;"><img alt="" class="img-fluid" height="452" src="img/arrows-tangerine.svg" width="100"/></div>
+<div class="d-none d-xl-block position-absolute" style="right: 60px; top: 75px;"><img alt="" class="img-fluid" height="452" src="img/arrows-tangerine.svg" width="150"/></div>
+<div class="d-none d-xl-block position-absolute" style="left: -10px; top: 40px;"><img alt="" class="img-fluid" height="452" src="img/arrows-tangerine.svg" width="100"/></div>
+<div class="container py-5 py-xl-6">
+<div class="row justify-content-center">
+<div class="col-12 col-xl-10">
+<h2 class="mb-4">The program will provide:</h2>
+<div class="row">
+<div class="col-md-6">
+<ul class="pl-3 mb-0">
+<li>A cross-disciplinary curriculum that synthesizes best practices from business and technology, equipping you with a comprehensive understanding to effectively manage the lifecycle of digital products and services;</li>
+<li>Two consecutive learning streams, comprising academic thought leadership and experiential application;</li>
+<li>An eleven-month practicum in which student teams discover, design and build, and implement a digital solution for a real client, supported by faculty and a dedicated industry advisor;</li>
+<li>A low-code development approach, allowing you to apply specialized knowledge without extensive technological training;</li>
+</ul>
+</div>
+<div class="col-md-6">
+<ul class="pl-3">
+<li>Instruction by internationally renowned faculty from Smith School of Business and Queen&#8217;s School of Computing, who offer a rich range of academic and industry expertise;</li>
+<li>Virtual learning sessions delivered on evenings and weekends, allowing you to study while you work;</li>
+<li>Personal development workshops and career advancement days;</li>
+<li>SmithEdge, a set of personal capabilities that prepare you to thrive in today&#8217;s business environment; and</li>
+<li>Access to job opportunities through Smith&#8217;s Career Advancement Centre.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- MDPM Mindset -->
+<div class="position-relative overflow-hidden">
+<div class="d-none d-lg-block position-absolute" style="left: -100px; top: -70px;"><img alt="" class="img-fluid" src="img/network-mint.svg" width="500"/></div>
+<div class="container py-5 py-xl-6">
+<section class="row align-items-center">
+<div class="col-lg-6">
+<div class="embed-responsive embed-responsive-16by9"><iframe allow="autoplay" allowfullscreen="allowfullscreen" height="405" src="https://smith.ca.panopto.com/Panopto/Pages/Embed.aspx?id=10cf3449-8669-4c7b-876b-af4a0126d7cd&amp;autoplay=false&amp;offerviewer=false&amp;showtitle=false&amp;showbrand=false&amp;captions=false&amp;interactivity=none" title="The digital product management mindset" width="720"></iframe></div>
+</div>
+<div class="col-lg-6 pt-5 pt-lg-0 pl-lg-5">
+<h2 class="leading-tight mb-3">The Digital Product Management Mindset</h2>
+<p>Listen to Kathryn Brohman (Program Director, Smith School of Business) and Nick Graham (Academic Co-Director, Queen's School of Computing) as they explain the digital product mindset and the role of the digital product manager. They share the skills needed and how the MDPM program will teach you those skills and bridge the gap from education to industry.</p>
+</div>
+</section>
+<!-- Meet a DPM -->
+<section class="row border-top border-2 pt-5 pt-xl-6 mt-5 mt-xl-6 align-items-center">
+<div class="col-lg-6 pr-lg-5">
+<h2 class="leading-tight mb-3">Meet a Digital Product Manager</h2>
+<p>Hear directly from Jessica Creces McElhone, Vice President of Strategic Growth &amp; Data at Cineplex Digital Media, what it's like to manage digital products. Jessica shares how wide-spread this need is in industry and how rewarding this career can be.</p>
+</div>
+<div class="col-lg-6 pt-4 pt-lg-0">
+<div class="embed-responsive embed-responsive-16by9"><iframe allow="autoplay" allowfullscreen="allowfullscreen" height="405" src="https://smith.ca.panopto.com/Panopto/Pages/Embed.aspx?id=4782284f-d591-48e3-ae44-af4a0126d7a9&amp;autoplay=false&amp;offerviewer=false&amp;showtitle=false&amp;showbrand=false&amp;captions=false&amp;interactivity=none" title="Meet a digital product manager" width="720"></iframe></div>
+</div>
+</section>
+</div>
+</div>
+<!-- START New Scholarships -->
+<div class="bg-blue">
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-12 col-xl-10">
+<div class="row py-4 align-items-center">
+<div class="col-12 col-md-8 col-lg-9">
+<h3 class="text-white mb-2">New Scholarships Available</h3>
+<p class="text-white text-base text-md-lg mb-4 mb-md-0">Smith School of Business introduces scholarships for Black students and Indigenous students in all MBA, Professional Masters, and Graduate Diploma programs.</p>
+</div>
+<div class="col-12 col-md-4 col-lg-3 text-md-right"><a class="btn btn-tangerine text-blue" href="program-details/fees.php" target="_parent">View scholarships</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- END New Scholarships --> <!-- START Key Features -->
+<section>
+<div class="container py-5 py-xl-6" data-aos="fade-up">
+<div class="row">
+<div class="col-12">
+<h2>Key Features</h2>
+</div>
+</div>
+<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3">
+<div class="col my-3"><i class="fal fa-shuffle fa-4x text-tangerine my-3">&#160;</i>
+<h3 class="h4">Integrated Learning Streams</h3>
+<p>The program integrates academic thought leadership with practical application in a unique and powerful way to develop work-ready skills in product management and digital transformation.</p>
+<a class="stretched-link" href="program-details/index.php">View the curriculum <i class="far fa-arrow-right arrow-link">&#160;</i></a></div>
+<div class="col my-3"><i class="fal fa-user-chart fa-4x text-rose my-3">&#160;</i>
+<h3 class="h4">Expert Leadership</h3>
+<p>Courses are led by award-winning faculty from both Smith School of Business and Queen&#8217;s School of Computing, bringing robust research prowess, thought leadership and industry expertise to your classroom.</p>
+<a class="stretched-link" href="program-details/faculty.php">Meet the faculty <i class="far fa-arrow-right arrow-link">&#160;</i></a></div>
+<div class="col my-3"><i class="fal fa-book fa-4x text-aqua my-3">&#160;</i>
+<h3 class="h4">Experiential learning</h3>
+<p>An eleven-month industry practicum will match you with a team of your fellow students to design, build, and optimize a digital product for a real client, supported by faculty and a dedicated industry advisor.</p>
+</div>
+<div class="col my-3"><i class="fal fa-laptop-house fa-4x text-rose-300 my-3">&#160;</i>
+<h3 class="h4">Flexible delivery</h3>
+<p>Following an introductory week in residence at Queen&#8217;s University&#8217;s campus in Kingston, Ontario, all courses will be offered via virtual learning, leveraging Smith&#8217;s well-established virtual learning platform. All classes are scheduled for evenings and weekends.</p>
+<a class="stretched-link" href="program-details/schedule.php">View schedule <i class="far fa-arrow-right arrow-link">&#160;</i></a></div>
+<div class="col my-3"><i class="fal fa-chess fa-4x text-purple-300 my-3">&#160;</i>
+<h3 class="h4">No programming required</h3>
+<p>The program centres on the modern industry practice of low-code development, employing drag-and-drop tools and pre-built templates that allow you to focus on the essential strategies and tactics that transform the way people work and how the business drives results.</p>
+</div>
+<div class="col my-3"><i class="fal fa-briefcase fa-4x text-sky-300 my-3">&#160;</i>
+<h3 class="h4">Career advancement</h3>
+<p>Throughout the program, you&#8217;ll benefit from special events, business networking, coaching and support, all intended to help you advance your career.</p>
+</div>
+</div>
+</div>
+</section>
+<!-- END Key Features --> <!-- START TESTIMONIAL -->
+<section class="gradient-angled position-relative" style="--color-end: var(--rose);"><picture> <source media="(min-width:992px)" srcset="img/digital-pattern.jpg?path=/grad_studies/mdpm/img/digital-pattern.jpg"/> <source media="(min-width:0px)" srcset="img/digital-pattern-mobile.jpg?path=/grad_studies/mdpm/img/digital-pattern-mobile.jpg"/> <img alt="" class="img-cover position-absolute" data-object-fit="" src="img/digital-pattern-mobile.jpg?path=/grad_studies/mdpm/img/digital-pattern-mobile.jpg"/> </picture>
+<div class="container py-6 aos-init aos-animate" data-aos="fade-up">
+<div class="row align-items-lg-center">
+<div class="col-10 col-lg-6"><img alt="" class="img-fluid mb-4 mb-lg-0" src="img/tolu-presentation.jpg"/></div>
+<div class="col-12 col-lg-6 pl-lg-5">
+<figure class="text-white mb-0">
+<blockquote class="text-xl text-lg-base text-xl-lg">
+<p>&#8220;The role of the product manager is, primarily, to guide a product to success. But it is also to define what success will be for the product, depending on the end game the organization is going&#160;for.</p>
+<p>In our economy, it is so important to have people who understand the market, understand user behaviour, and understand the way to create value for business owners, for customers and, ultimately, for society as a&#160;whole.&#8221;</p>
+</blockquote>
+<figcaption class="text-sm pt-2">
+<div class="row align-items-center">
+<div class="col-3"><img alt="" class="img-fluid rounded-circle" height="500" src="img/tolu-arogunmati.jpg" width="500"/></div>
+<div class="col-9"><span class="font-black">Tolu Arogunmati, MBA </span><br/> Product Manager<br/>Reddit</div>
+</div>
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<!-- END TESTIMONIAL --><!-- Optional Pre-Footer -->
+
+</main>
+<footer class="pt-4" id="smith-footer"><!-- START Global Footer -->
+<div class="container">
+<div class="row row-cols-2 row-cols-md-3 row-cols-lg-5 pt-4 pb-lg-4">
+<div class="col mb-4 mb-lg-0">
+<h2 class="text-base text-white border-top border-lg-top-0 border-light pt-lg-0 mt-0"><i class="fas fa-map-marker-alt mr-1"> </i>Kingston</h2>
+<p class="text-white mb-0">Goodes Hall<br /> Queen's University<br /> Kingston, Ontario <br />Canada K7L 3N6</p>
+<a id="kingston-number" href="tel:+18775332330">1.877.533.2330</a></div>
+<div class="col mb-4 mb-lg-0">
+<h2 class="text-base text-white border-top border-lg-top-0 border-light pt-lg-0 mt-0"><i class="fas fa-map-marker-alt mr-1"> </i>Toronto</h2>
+<p class="text-white mb-0">Simcoe Place<br /> 200 Front Street West<br /> 30th Floor</p>
+<a href="tel:+14163657141">416.365.7141</a></div>
+<div class="col mb-4 mb-lg-0">
+<h2 class="text-base text-white border-top border-lg-top-0 border-light pt-lg-0 mt-0">Smith Programs</h2>
+<ul class="footer-links">
+<li><a href="/academic_programs/undergraduate.php">Undergraduate Programs</a></li>
+<li><a href="/mba_programs/index.php">MBA Programs</a></li>
+<li><a href="/grad_studies/index.php">Graduate Programs</a></li>
+<li><a href="/executiveeducation/index.php">Executive Education</a></li>
+</ul>
+</div>
+<div class="col mb-4 mb-lg-0">
+<h2 class="text-base text-white border-top border-lg-top-0 border-light pt-lg-0 mt-0">Directories</h2>
+<ul class="footer-links">
+<li><a href="/about/contact.php">Contact Us</a></li>
+<li><a href="/centres/index.php">Smith Centres</a></li>
+<li><a href="/about/services.php">Smith Services</a></li>
+</ul>
+</div>
+<div class="col mb-4 mb-lg-0">
+<div class="border-top border-lg-top-0 border-light pt-0 mt-0"><a href="http://www.queensu.ca"><img alt="Queen's University" class="img-fluid" id="footer-queens-logo" src="/_templates/images/logos/queens-logo-white.svg" /> </a></div>
+</div>
+<div class="col d-lg-none mb-4 mb-lg-0">
+<div class="border-top border-lg-top-0 border-light mt-0" style="padding-top: 2rem;"><a href="/index.php"><img alt="Smith School of Business" class="img-fluid" src="/_templates/images/content/logos/smith/smith-logo-white.svg" /> </a></div>
+</div>
+</div>
+<!-- START Social -->
+<div class="row">
+<div class="col-12">
+<div class="d-flex flex-column align-items-start flex-sm-row align-items-sm-center justify-content-sm-center py-4 py-md-3 border-top border-bottom border-light">
+<h2 class="text-lg text-white pt-0 mt-0 mb-3 mb-sm-0 mr-sm-3">Connect with Smith</h2>
+<ul class="footer-social text-lg-3xl mb-0">
+<li><a class="mr-lg-2" href="https://www.facebook.com/smithbusiness"><i class="fab fa-facebook-square"> </i> <span class="sr-only">Facebook</span></a></li>
+<li><a class="mr-lg-2" href="https://www.instagram.com/smithbusiness/"><i class="fab fa-instagram-square"> </i><span class="sr-only">Instagram</span></a></li>
+<li><a class="mr-lg-2" href="https://twitter.com/smithbusiness"><i class="fab fa-square-x-twitter"> </i><span class="sr-only">Twitter X</span></a></li>
+<li><a class="mr-lg-2" href="https://www.linkedin.com/company/smith-school-of-business-at-queen's-university"><i class="fab fa-linkedin"> </i><span class="sr-only">Linkedin</span></a></li>
+<li><a class="mr-0" href="https://mp.weixin.qq.com/s/SoosIZFmLD0D01aSGJzgLw"><i class="fab fa-weixin"> </i><span class="sr-only">WeChat</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- END Social --> <!--COPYRIGHT-->
+<div id="footer-hero">
+<div class="row">
+<div class="col-12">
+<p class="text-sm text-lg-center text-white py-4 mb-0">The Smith School of Business Kingston campus is situated on traditional Anishinaabe and Haudenosaunee&#160;Territory.<br /> SmithToronto is situated on the traditional territory of the Huron-Wendat and Petun First Nations, the Seneca, and the Mississaugas of the Credit&#160;River.</p>
+</div>
+</div>
+<div class="row pb-4 mt-1">
+<div class="col-12 text-center">
+<ul class="list-inline mb-0">
+<li class="list-inline-item"><a href="/invest/" title="Give to Smith"><i class="far fa-gift"> </i> Give to Smith</a></li>
+<li class="list-inline-item"><a href="/about/careers/" title="Careers at Smith"><i class="far fa-briefcase"> </i> Careers</a></li>
+<li class="list-inline-item"><a href="/academic_programs/student-portals.php" title="Program Portals"><i class="far fa-sign-in"> </i> Program Portals</a></li>
+<li class="list-inline-item"><a href="/about/academic_integrity/index.php" title="Academic Integrity"><i class="far fa-file-check"> </i> Academic Integrity</a></li>
+<li class="list-inline-item"><a href="http://www.queensu.ca/accessandprivacy/privacy/notice-collection" title="Privacy"><i class="far fa-shield"> </i> Privacy</a></li>
+</ul>
+<p class="text-white mt-3 mb-0">&#169; Smith School of Business</p>
+</div>
+</div>
+</div>
+</div>
+<!-- END Global Footer --> </footer>
+<!-- /Main -->
+<!-- Scroll up -->
+<!-- Animate on scroll initialization -->
+<script src="../../_templates/enhancements/aos-master/dist/aos.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+AOS.init();
+window.addEventListener('load', AOS.refresh);
+</script>
+</body>
+</html>
